@@ -11,3 +11,4 @@
 3. Run `npm run dev` from the project root, then open
    `http://localhost:3000`.
 # study_notion
+# study_private
